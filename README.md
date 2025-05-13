@@ -4,11 +4,10 @@ Airbnb is an online marketplace that connects people who want to rent out their 
 
 ## Project Link
 
-## Kaggle Project
+[AirBnB Project Code](https://www.kaggle.com/your-username/your-project).
 
-Project code (https://www.kaggle.com/code/abhilashachimegave/airbnb-project/edit/run/239275518).
+![airbnb images](https://github.com/user-attachments/assets/ed6aea18-fb86-4b86-b1b5-65eb07b684f8)
 
-![OIP](https://github.com/user-attachments/assets/4eeaad8a-c441-4335-9fe9-5efc57355eb9)
 
 ## Overview :
 
@@ -20,7 +19,7 @@ The dataset includes the following files:
 
 - listings.csv Contains detailed information about Airbnb properties, including host details, location, pricing, and room types.
 - reviews.csv Includes guest reviews for Airbnb properties, covering feedback, review dates, and reviewer details.
-- Dataset Source : https://www.kaggle.com/datasets/mysarahmadbhat/airbnb-listings-reviews
+- Dataset Source : [AirBnB Listing and Review Dataset](https://www.kaggle.com/datasets/mysarahmadbhat/airbnb-listings-reviews).
 
 ## Insights :
 
@@ -28,6 +27,16 @@ The dataset includes the following files:
 2. After the startup is known to everyone and becomes a common utility, AirBnBs start increasing in numbers and prices also kept on decreasing.
 3. After regulation was announced around 2015 there was under confidence in the business, number of AirBnBs started decreasing and prices started increasing.
 4. Once the regulation is the new normal, during the year 2019 the number of AirBnBs have increased in number and prices kept decreasing due to more supply of them.
+
+## Recommendation :
+
+1. Regulations in long term rentals can impact the business adversely, there might be customer and hosts churn due to uncertainty.
+2. Such regulations might add to AirBnBs losses which might be difficult to recover later.
+3. If the customer experience is going to get impacted due to this, it would lead to incorrect brand perception.
+4. It is recommended to watch out for any such regulations at other places and be prepared for it.
+5. AirBnB can replicate such regulations at other places.
+6.They can keep strict rules to onboard and release the hosts.
+7.They can limit the number of AirBnBs in a locality to ensure the public has enough rental options and the government doesn't step in.
 
 
 
